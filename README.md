@@ -1,0 +1,1 @@
+# DjangoFullStack_with_Template
